@@ -1,0 +1,7 @@
+node_modules/
+hot
+mix-manifest.json
+.idea
+dist/
+.vscode/
+.DS_Store
